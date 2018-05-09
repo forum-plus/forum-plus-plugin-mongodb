@@ -1,0 +1,28 @@
+{
+  "name": "forum-plus-plugin-mongodb",
+  "version": "0.0.1",
+  "description": "forum plus plugin for mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forum-plus/forum-plus-plugin-mongodb.git"
+  },
+  "keywords": [
+    "forum-plus",
+    "mongodb",
+    "plugin"
+  ],
+  "author": {
+    "name": "ZHAO Xudong",
+    "email": "zxdong@gmail.com",
+    "url": "https://html5beta.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/forum-plus/forum-plus-plugin-mongodb/issues"
+  },
+  "homepage": "https://github.com/forum-plus/forum-plus-plugin-mongodb#readme"
+}
